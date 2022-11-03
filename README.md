@@ -8,7 +8,6 @@ Full Stack Spatial Developer 😎🌍
 ![](https://github-readme-streak-stats.herokuapp.com/?user=james-hinton&theme=dracula&hide_border=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=james-hinton&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-(It's actually Python)
-
 ### 😂 Random Dev Meme 
+##### (This is randomly generated I might not know what it is)
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
