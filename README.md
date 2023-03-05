@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Spatial Developer 😎🌍
+Full Stack Developer 😎🌍
 
 
 # 💻 Tech Stack:
