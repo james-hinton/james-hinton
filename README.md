@@ -7,4 +7,3 @@ Full Stack Developer 😎🌍
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=james-hinton&theme=dracula&hide_border=false&count_private=true&show_icons=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=james-hinton&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
