@@ -1,4 +1,4 @@
-# 👨‍💻 James Hinton - Full Stack Software Engineer
+# 👨‍💻 James Hinton
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logoColor=white)](http://james-hinton.com)
 
 A Full Stack Developer proficient in Python and JavaScript, with significant experience in geospatial and various other domains.
