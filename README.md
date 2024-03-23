@@ -1,7 +1,9 @@
 # 👨‍💻 James Hinton
+**↪️ Check out my recent personal projects**
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logoColor=white)](http://james-hinton.com)  
-**↪️ Click on the Portfolio badge to visit my website!**
+[![Portfolio](https://img.shields.io/badge/-James%20OS-blue?style=for-the-badge&logoColor=white)](http://james-hinton.com)  
+[![Aurora Explorer](https://img.shields.io/badge/-Aurora%20Explorer-darkblue?style=for-the-badge&logoColor=white)](https://gist.github.com/james-hinton/153704719a4546f78cb6dd2fe545d4c6)
+
 
 A Full Stack Developer proficient in Python and JavaScript, with significant experience in geospatial and various other domains.
 
